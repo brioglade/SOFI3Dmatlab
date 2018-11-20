@@ -7,6 +7,8 @@ We write a personal MATLAB code which control SOFI3D from Windows. The codes tak
 
 # List of functions:
 
+main__vxxx is the main matlab file that control all necessary parameters. Users have to run this matlab file to execute SOFI3D.
+
 ## I/O functions
 1. examine_cube()
 Check the input cubes including velocities and density arrays. Return dimension of the cubes. 
